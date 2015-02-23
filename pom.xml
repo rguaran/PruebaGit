@@ -22,7 +22,6 @@
             <artifactId>jersey-servlet</artifactId>
             <version>1.13</version>
         </dependency>
-        </dependency>
     </dependencies>
  
     <build>
