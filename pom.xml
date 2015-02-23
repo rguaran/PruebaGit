@@ -17,10 +17,11 @@
     </properties>
     
     <dependencies>
-        <dependency>
-            <groupId>com.sun.jersey</groupId>
-            <artifactId>jersey-servlet</artifactId>
-            <version>1.13</version>
+       <dependency>
+            <groupId>javax</groupId>
+            <artifactId>primefaces-5.0</artifactId>
+            <version>5.0</version>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
  
